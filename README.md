@@ -3,7 +3,7 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 #The Structure
 
-Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights/
+##Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights/
 │
 ├── 📁 data/
 │   ├── telecom_messaging_data.csv
