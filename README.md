@@ -125,29 +125,29 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 📊 ## Main analysis areas
 
-Part	                       Analysis
+Part	                                                        Analysis
 
-📱 Messaging	                   SMS volume, sent/received messages, trends
+📱 Messaging	                                     SMS volume, sent/received messages, trends
 
-👥 Customers	                   Usage behavior, activity, engagement
+👥 Customers	                                      Usage behavior, activity, engagement
 
-📡 Network	                     Signal/network performance, failures, latency
+📡 Network	                                      Signal/network performance, failures, latency
 
-💰 Revenue	                     Revenue by customer, plan, region
+💰 Revenue	                                      Revenue by customer, plan, region
 
-🕐 Time	                         Hourly, daily, monthly messaging patterns
+🕐 Time	                                              Hourly, daily, monthly messaging patterns
 
-🌍 Geography	                   Usage by region/city
+🌍 Geography	                                      Usage by region/city
 
-🎯 Segmentation                  High, medium and low-value customers
+🎯 Segmentation                                      High, medium and low-value customers
 
-📈 Visualization	               Matplotlib, Seaborn, Plotly, Power BI
+📈 Visualization	                             Matplotlib, Seaborn, Plotly, Power BI
 
-🗄️ SQL	                         Business questions and customer analysis
+🗄️ SQL	                                             Business questions and customer analysis
 
-🚀 Dashboard	                   Interactive telecom analytics dashboard
+🚀 Dashboard	                                     Interactive telecom analytics dashboard
 
-🤖 ML	                           Customer segmentation/clustering
+🤖 ML	                                             Customer segmentation/clustering
 
 
 🛠️ ## Skills demonstrated
