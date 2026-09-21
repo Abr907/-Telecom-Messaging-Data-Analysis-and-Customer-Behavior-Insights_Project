@@ -87,37 +87,37 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 01 → Create / Collect Dataset
 
-        ↓
+        
 02 → Understand Dataset
 
-        ↓
+        
 03 → Clean & Preprocess Data
 
-        ↓
+        
 04 → Exploratory Data Analysis
 
-        ↓
+        
 05 → Messaging & Customer Behavior
 
-        ↓
+        
 06 → Telecom / Network Performance
 
-        ↓
+        
 07 → SQL Business Analysis
 
-        ↓
+        
 08 → Customer Segmentation
 
-        ↓
+        
 09 → Data Visualization & Dashboard
 
-        ↓
+        
 10 → Business Insights & Recommendations
 
-        ↓
+        
 11 → Streamlit Application
 
-        ↓
+        
 12 → GitHub Documentation
 
 
