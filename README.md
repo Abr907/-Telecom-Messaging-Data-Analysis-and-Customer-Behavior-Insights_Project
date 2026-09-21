@@ -122,7 +122,9 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 
 
-📊 Main analysis areas
+
+📊 ## Main analysis areas
+
 Part	                       Analysis
 
 📱 Messaging	                   SMS volume, sent/received messages, trends
