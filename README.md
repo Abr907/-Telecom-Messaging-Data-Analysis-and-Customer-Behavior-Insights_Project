@@ -3,7 +3,9 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 #The Structure
 
-##Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights/
+##Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights
+|....................................
+|....................................
 │
 ├── 📁 data/
 
@@ -80,11 +82,13 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 ├── README.md
 
 └── .gitignore
-
+......................
+.......................
 
 🔎## Project workflow
 
-
+......................
+......................
 01 → Create / Collect Dataset
 
         
