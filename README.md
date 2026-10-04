@@ -6,13 +6,15 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 ## Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights
 
 
-├── 📁 data/
+├── 
+📁 data/
 
 │   ├── telecom_messaging_data.csv
 
 │   └── processed_telecom_data.csv
 │
-├── 📁 notebooks/
+├── 
+📁 notebooks/
 
 │   ├── 01_Data_Understanding.ipynb
 
@@ -30,7 +32,8 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 │   └── 08_Business_Insights.ipynb
 │
-├── 📁 src/
+├── 
+📁 src/
 │   ├── data_cleaning.py
 
 │   ├── feature_engineering.py
@@ -41,7 +44,8 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 │   └── segmentation.py
 │
-├── 📁 sql/
+├── 
+📁 sql/
 │   ├── customer_analysis.sql
 
 │   ├── messaging_analysis.sql
@@ -50,13 +54,15 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 │   └── segmentation_analysis.sql
 │
-├── 📁 dashboard/
+├── 
+📁 dashboard/
 
 │   ├── telecom_dashboard.pbix
 
 │   └── dashboard_screenshots/
 │
-├── 📁 visualizations/
+├── 
+📁 visualizations/
 
 │   ├── messaging_trends.png
 
@@ -68,11 +74,13 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 │   └── business_kpis.png
 │
-├── 📁 models/
+├── 
+📁 models/
 
 │   └── customer_segmentation.pkl
 │
-├── 📁 app/
+├── 
+📁 app/
 
 │   └── streamlit_app.py
 │
