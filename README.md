@@ -1,20 +1,20 @@
 # Telecom-Messaging-Data-Analysis and Customer_Behavior_Insights_Project
 The project on Telecom Messaging Data Analysis and Customer Behavior Insights centers on the examination of SMS аnd messaging datа cоlleсtеd frоm а tеlеcоmmunicаtiоns prоvidеr.Its primаry оbjеctive is tоgаin a dеeper understanding оf custоmer intеractiоns with mеssаging serviсеs and tо uncоver signifiсаnt trends in thеir usage patterns.
 
-# The Structure
+# 🧩 The Structure
 
 ## Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights
 
 
 ├── 
-📁 data/
+_**📁 data/ _**
 
 │   ├── telecom_messaging_data.csv
 
 │   └── processed_telecom_data.csv
 │
 ├── 
-📁 notebooks/
+_**📁 notebooks/ _**
 
 │   ├── 01_Data_Understanding.ipynb
 
@@ -33,7 +33,7 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 │   └── 08_Business_Insights.ipynb
 │
 ├── 
-📁 src/
+_**📁 src/  _**
 │   ├── data_cleaning.py
 
 │   ├── feature_engineering.py
@@ -45,7 +45,7 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 │   └── segmentation.py
 │
 ├── 
-📁 sql/
+_**📁 sql/ _**
 │   ├── customer_analysis.sql
 
 │   ├── messaging_analysis.sql
@@ -55,14 +55,14 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 │   └── segmentation_analysis.sql
 │
 ├── 
-📁 dashboard/
+_**📁 dashboard/ _**
 
 │   ├── telecom_dashboard.pbix
 
 │   └── dashboard_screenshots/
 │
 ├── 
-📁 visualizations/
+_**📁 visualizations/ -**
 
 │   ├── messaging_trends.png
 
@@ -75,12 +75,12 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 │   └── business_kpis.png
 │
 ├── 
-📁 models/
+_**📁 models/ _**
 
 │   └── customer_segmentation.pkl
 │
 ├── 
-📁 app/
+_**📁 app/ _**
 
 │   └── streamlit_app.py
 │
@@ -180,7 +180,7 @@ Business Intelligence
 Statistical Analysis
 Git & GitHub
                  
-                🎯 Final portfolio architecture                                  
+           🎯 Final portfolio architecture                                  
                              
                                                                
                                 
@@ -215,6 +215,20 @@ Git & GitHub
                            ▼
                     💡 BUSINESS
                     RECOMMENDATIONS
+
+
+
+  ## 💻 Execution on Google Colab
+
+If you prefer running my project code: 👉 Open:https://colab.research.google.com/drive/10O0VP8tgmpjpslcZ3dvZ5rS8wtWwIWG0#scrollTo=b7PrhErxYBch
+
+Steps :
+
+Upload the dataset ("data/telecom_messaging_data.csv") when prompted. Run all cells sequentially. The notebook will automatically download the /reports CSV files when finished.
+
+## 👨‍💻 Author
+Apolo Barnabas Developers Institute — Tel Aviv/ Israel
+  
 
 
                     
