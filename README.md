@@ -4,58 +4,6 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 # 🧩 The Structure
 
 ## Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights
-Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights/
-_**│
-├── 📁 data/
-│   ├── raw/
-│   │   └── telecom_messaging_data.csv
-│   └── processed/
-│       └── telecom_messaging_clean.csv
-│
-├── 📁 notebooks/
-│   ├── 01_Data_Understanding.ipynb
-│   ├── 02_Data_Cleaning_Preprocessing.ipynb
-│   ├── 03_EDA_Messaging_Analysis.ipynb
-│   ├── 04_Customer_Behavior_Analysis.ipynb
-│   ├── 05_Network_Performance_Analysis.ipynb
-│   ├── 06_SQL_Analysis.ipynb
-│   ├── 07_Customer_Segmentation.ipynb
-│   └── 08_Business_Insights.ipynb
-│
-├── 📁 sql/
-│   ├── customer_analysis.sql
-│   ├── messaging_analysis.sql
-│   ├── network_analysis.sql
-│   └── segmentation_analysis.sql
-│
-├── 📁 scripts/
-│   ├── data_cleaning.py
-│   ├── feature_engineering.py
-│   └── segmentation.py
-│
-├── 📁 dashboards/
-│   ├── telecom_dashboard.pbix
-│   └── dashboard_screenshots/
-│
-├── 📁 visualizations/
-│   ├── messaging_trends.png
-│   ├── customer_behavior.png
-│   ├── network_performance.png
-│   ├── customer_segments.png
-│   └── business_insights.png
-│
-├── 📁 models/
-│   └── customer_segmentation.pkl
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-_**
-
-
-
-
-
 ├── 
 _**📁 data/ _**
 
@@ -210,19 +158,19 @@ _**🤖 ML _**	          :                                   Customer segmentati
 
 
 _**🛠️ Skills demonstrated _**
-Python
+## Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Plotly
 Scikit-learn
-SQL
+## SQL
 SQLite / PostgreSQL
 Power BI
 Streamlit
 Data Cleaning
-EDA
+## EDA
 Feature Engineering
 Customer Segmentation
 Data Visualization
