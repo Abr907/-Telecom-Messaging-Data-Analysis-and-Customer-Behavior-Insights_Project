@@ -5,7 +5,7 @@ The project on Telecom Messaging Data Analysis and Customer Behavior Insights ce
 
 ## Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights
 Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights/
-│
+_**│
 ├── 📁 data/
 │   ├── raw/
 │   │   └── telecom_messaging_data.csv
@@ -50,7 +50,7 @@ Telecom-Messaging-Data-Analysis-and-Customer-Behavior-Insights/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-
+_**
 
 
 
